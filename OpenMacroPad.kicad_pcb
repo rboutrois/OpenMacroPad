@@ -1,4 +1,4 @@
-(kicad_pcb (version 20171130) (host pcbnew "(5.1.9)-1")
+(kicad_pcb (version 20171130) (host pcbnew "(5.1.5-0-10_14)")
 
   (general
     (thickness 1.6)
@@ -268,15 +268,10 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model ${KIPRJMOD}/CherryMX.STEP
+    (model "${KIPRJMOD}/3D Models/CherryMX.STEP"
       (offset (xyz 4.8 2.3 6))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 180))
-    )
-    (model "C:/Users/Romain/Downloads/MX 轴标准键帽.STEP"
-      (offset (xyz 6.5 -13.5 9.5))
-      (scale (xyz 1 1 1))
-      (rotate (xyz -90 0 -180))
     )
   )
 
@@ -337,7 +332,7 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model ${KIPRJMOD}/EC11_Rotary_Encoder_Switched.step
+    (model "${KIPRJMOD}/3D Models/EC11_Rotary_Encoder_Switched.step"
       (offset (xyz 7.5 -2.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 90))
@@ -386,15 +381,10 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model ${KIPRJMOD}/CherryMX.STEP
+    (model "${KIPRJMOD}/3D Models/CherryMX.STEP"
       (offset (xyz 4.8 2.3 6))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 180))
-    )
-    (model "C:/Users/Romain/Downloads/MX 轴标准键帽.STEP"
-      (offset (xyz 6.5 -13.5 9.5))
-      (scale (xyz 1 1 1))
-      (rotate (xyz -90 0 -180))
     )
   )
 
@@ -440,15 +430,10 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model ${KIPRJMOD}/CherryMX.STEP
+    (model "${KIPRJMOD}/3D Models/CherryMX.STEP"
       (offset (xyz 4.8 2.3 6))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 180))
-    )
-    (model "C:/Users/Romain/Downloads/MX 轴标准键帽.STEP"
-      (offset (xyz 6.5 -13.5 9.5))
-      (scale (xyz 1 1 1))
-      (rotate (xyz -90 0 -180))
     )
   )
 
@@ -494,15 +479,10 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model ${KIPRJMOD}/CherryMX.STEP
+    (model "${KIPRJMOD}/3D Models/CherryMX.STEP"
       (offset (xyz 4.8 2.3 6))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 180))
-    )
-    (model "C:/Users/Romain/Downloads/MX 轴标准键帽.STEP"
-      (offset (xyz 6.5 -13.5 9.5))
-      (scale (xyz 1 1 1))
-      (rotate (xyz -90 0 -180))
     )
   )
 
@@ -548,15 +528,10 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model ${KIPRJMOD}/CherryMX.STEP
+    (model "${KIPRJMOD}/3D Models/CherryMX.STEP"
       (offset (xyz 4.8 2.3 6))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 180))
-    )
-    (model "C:/Users/Romain/Downloads/MX 轴标准键帽.STEP"
-      (offset (xyz 6.5 -13.5 9.5))
-      (scale (xyz 1 1 1))
-      (rotate (xyz -90 0 -180))
     )
   )
 
@@ -602,15 +577,10 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model ${KIPRJMOD}/CherryMX.STEP
+    (model "${KIPRJMOD}/3D Models/CherryMX.STEP"
       (offset (xyz 4.8 2.3 6))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 180))
-    )
-    (model "C:/Users/Romain/Downloads/MX 轴标准键帽.STEP"
-      (offset (xyz 6.5 -13.5 9.5))
-      (scale (xyz 1 1 1))
-      (rotate (xyz -90 0 -180))
     )
   )
 
@@ -656,15 +626,10 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model ${KIPRJMOD}/CherryMX.STEP
+    (model "${KIPRJMOD}/3D Models/CherryMX.STEP"
       (offset (xyz 4.8 2.3 6))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 180))
-    )
-    (model "C:/Users/Romain/Downloads/MX 轴标准键帽.STEP"
-      (offset (xyz 6.5 -13.5 9.5))
-      (scale (xyz 1 1 1))
-      (rotate (xyz -90 0 -180))
     )
   )
 
@@ -710,15 +675,10 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model ${KIPRJMOD}/CherryMX.STEP
+    (model "${KIPRJMOD}/3D Models/CherryMX.STEP"
       (offset (xyz 4.8 2.3 6))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 180))
-    )
-    (model "C:/Users/Romain/Downloads/MX 轴标准键帽.STEP"
-      (offset (xyz 6.5 -13.5 9.5))
-      (scale (xyz 1 1 1))
-      (rotate (xyz -90 0 -180))
     )
   )
 
@@ -764,15 +724,10 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model ${KIPRJMOD}/CherryMX.STEP
+    (model "${KIPRJMOD}/3D Models/CherryMX.STEP"
       (offset (xyz 4.8 2.3 6))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 180))
-    )
-    (model "C:/Users/Romain/Downloads/MX 轴标准键帽.STEP"
-      (offset (xyz 6.5 -13.5 9.5))
-      (scale (xyz 1 1 1))
-      (rotate (xyz -90 0 -180))
     )
   )
 
@@ -2250,7 +2205,7 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model ${KIPRJMOD}/USB4085-GF-A.STEP
+    (model "${KIPRJMOD}/3D Models/USB4085-GF-A.STEP"
       (offset (xyz 3 -4 0))
       (scale (xyz 1 1 1))
       (rotate (xyz -90 0 0))
@@ -2811,7 +2766,7 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
-    (model ${KIPRJMOD}/EC11_Rotary_Encoder_Switched.step
+    (model "${KIPRJMOD}/3D Models/EC11_Rotary_Encoder_Switched.step"
       (offset (xyz 7.5 -2.5 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 90))
