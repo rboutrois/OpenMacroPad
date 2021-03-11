@@ -1,6 +1,11 @@
 # For PCBs designed using KiCad: http://www.kicad-pcb.org/
 # Format documentation: http://kicad-pcb.org/help/file-formats/
 
+
+# System Files
+.DS_Store
+
+
 # Temporary files
 *.000
 *.bak
@@ -13,6 +18,8 @@ _autosave-*
 *-save.pro
 *-save.kicad_pcb
 fp-info-cache
+*-cache.lib
+sym-lib-table
 
 # Netlist files (exported from Eeschema)
 *.net
@@ -24,3 +31,6 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# Gerbers
+*.zip
